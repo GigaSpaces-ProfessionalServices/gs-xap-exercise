@@ -1,0 +1,14 @@
+*.class
+*.jar
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+idea/*
+idea
+.eclipse
+*.zip
+target
+bin
+out
